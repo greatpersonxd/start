@@ -19,7 +19,7 @@ heroku3
 apscheduler
 motor 
 numpy
-pillow==10.2.0
+pillow==9.5.0
 psutil
 wget
 pyfiglet
@@ -27,7 +27,7 @@ qrcode
 pytz
 future==0.18.3
 search_engine_parser
-py-tgcalls==1.2.9
+py-tgcalls==0.9.7
 pykeyboard
 pyshorteners
 pyrogram==2.0.106
@@ -45,12 +45,12 @@ youtube-search
 youtube-search-python
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
-lexica-api==1.5.7
+lexica-api==1.5.1
 httpx==0.25.2
 gpytranslate
 openai==0.28.0
 pickledb
-python-telegram-bot==20.8
+python-telegram-bot==20.7
 img2pdf
 cloudscraper
 pycryptodome
